@@ -1,3 +1,7 @@
+# Scripts for conver Kicad footprint files to packeges file OpenPnP
+#Author Maxim Krasnov 11.12.2022 S-Peterburg Russia
+
+
 #!/usr/bin/env python3
 import argparse
 import os
